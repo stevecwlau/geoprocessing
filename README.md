@@ -1,4 +1,4 @@
-# Geoprocessing
+# Geoprocessing with Python
 The purpose of this repository is to present applications of Python in automating geoprocessing solutions.
 
 ## [1) Geocoding using the LandsD Location Search API and Python](https://github.com/stevecwlau/geoprocessing/blob/742ace2da2cda18d6e4d30c91fdfd4f8e3ee73d2/geocode_api.ipynb)
